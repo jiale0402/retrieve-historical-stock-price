@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "constant-carver-344807",
+  "private_key_id": "f5e458ba8d62f32bd9a2307e45e7fcdc7775ac42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDO0Sti/jc7JHV6\nb6mWJaAnyhlYqgcuo3338K29IqEXB1ISemHfD2wcnuHH9xB6bTpDaLKZRGCS+G+N\n/Nz6Z8QMUNEzT7nstxg3QVP4z5s0ighm+vRqBhJIQRsOsi54IcKQ4nMVEVY0F5fP\n6jUkRR5hy94Dq5mJpIhyRwYF2n5e58dkWRsASzHolHMDjmoD967OnsZd9Jt+ux53\nJtCN/C0toz6/tjKP5ogkmz46VoFdbkFHrPowBsfwrZC0XEmQUj0Ad8NV7202j+/m\nL2BBO3sTVC/b5tzXQsL6y3Hisp54Vkzl9c/hi8OF4DkPNa+qKezv8Fls6MKY+GK0\n5XD4DC+PAgMBAAECggEABVZfQ5ttRXjNZ1mBC5TxAICLYum7Fw21Gd77kjQAlZ2P\naqv/Np3T8RvQlokzwv+/+dlhMpS8gU5+t9qyFpby96EQ+mgGU6uYqQ8QjGKfOMiP\nKvPdtuwX21wtcer7SV0QWQ40YMjPwWG9KJUncJuFYIoTCA6M/yu13G0kz1CHjl9q\nYwpSLpKbq6HhTaRjwNhEWQt5v11/Xnlp+v2S3NSqCC0kCecA6Pt3i/vJaDTIiH2Y\niKmZIZXyKutPidkqOZnCF9RJqIW4fxJlnNkCGBJSPh2qzg9G4tTgPHhz3Jq3s2r8\nSvyJSVDWdAtj9qGVXcK138qdcRmAf+iAQkfkafm3YQKBgQDuKNtWMkF7uBn6p9Q4\n/33sZMn6GMxTmOdTQgAYdKXkR3tRx4mLnMsL0UuwQeXbVbQMFEhUqY6MWFl8J/no\nLuIljXZaDRaP1sCn8CsOt9e1ZY9vFVIYQTfgPWpsByJL2uSbOcASEm9dwRxJdMEX\n1+opgPiwgR+SBp84kC2hYyg4ZwKBgQDeT0NCgAS6/xoqIIqnstbRDFFMMX5x4REt\nVBidTCoorvv/rlrYZWCgolIRjcDB468no+JOdyuumTbzLLgj0Ai1bjSMLTEazqv2\nCc0uj3twCzjB03wavnDxRLD907TOANWIz00CcqlmI737NE4/umxrXfDqDInhjNlK\naoXBxwV2mQKBgQDlo0+alWq+uI2UOy9OpkvtHGIEXNTn5o9moEUnT5KFwscN27Cs\nhcri4jRxB5lzG/g3jXcQ600f1jCynnlBf7NfMj/kJKqUlyW8yL87udisd/kNyykV\nag1OkumCsH5JVg8H/W9N/aiUZhe4XHOzYeXPjyQ8TMT8MJZmG99jthCaEQKBgHdj\nof+IuQGkFu0g5NYDGZLTRqXgvsNx18O8Mivnx4xpzTQW8vrcFvStt91tf2OhX2Ou\ng88X+QGfjv8xuQKiqsqlENtnOcPn0jokMWkb7XLS0/xkE3ZZaFZqSZNHqwYnNIZw\nri7uXUNZVqIeCRf4illu7f8EFNhoyBlK8+KJe8mhAoGBAN7VBlGZaVRNYhlWT12y\nhX6QANEQ8Aq6TwD30pf8i5OJ29O3q5cw5mxXX9ZkP6QhOVhtabYWcPCG5ssNFY3G\nNsMjNHfL7TCjV0VzsLixnia+FW+lSy0Pi8WfxFPSboL0vCSzP9EXA83DT8FmWpP1\nqcPStzbTpX6wLunTrvJ+wzrI\n-----END PRIVATE KEY-----\n",
+  "client_email": "nuft-kucoin@constant-carver-344807.iam.gserviceaccount.com",
+  "client_id": "102708814926197134971",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nuft-kucoin%40constant-carver-344807.iam.gserviceaccount.com"
+}
